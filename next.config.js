@@ -1,4 +1,5 @@
 module.exports = {
+  distDir: 'build',
   env: {
     FIREBASE_APP_API_KEY: 'AIzaSyCdQmpMSFYCJGTSngbIg5TQMcvxMzPU_8E',
     FIREBASE_APP_AUTH_DOMAIN: 'todo-list-challenge-f1876.firebaseapp.com',
