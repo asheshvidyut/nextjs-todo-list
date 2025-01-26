@@ -9,7 +9,7 @@
     "start": "next start",
     "pre-commit": "yarn lint",
     "pre-push": "yarn test",
-    "export: "next export",
+    "export": "next export",
     "post-merge": "yarn install",
     "post-rewrite": "yarn install"
   },
